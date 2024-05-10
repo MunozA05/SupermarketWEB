@@ -18,7 +18,7 @@ namespace SupermarketWEB.Pages.Account
         {
             if (!ModelState.IsValid) return Page();
 
-            if (User.Email == "candelavalenciaj@gmail.com" && User.Password == "123456")
+            if (User.Email == "alejandromunozf005@gmail.com" && User.Password == "123456")
             {
                 var claims = new List<Claim>
         {
