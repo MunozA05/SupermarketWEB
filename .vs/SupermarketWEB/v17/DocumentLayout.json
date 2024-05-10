@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Alejandro\\OneDrive\\Escritorio\\SupermarketWEB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|c:\\users\\alejandro\\onedrive\\escritorio\\supermarketweb\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|c:\\users\\alejandro\\onedrive\\escritorio\\supermarketweb\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|solutionrelative:pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|C:\\Users\\Alejandro\\OneDrive\\Escritorio\\SupermarketWEB\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|C:\\Users\\Alejandro\\OneDrive\\Escritorio\\SupermarketWEB\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|solutionrelative:pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|c:\\users\\alejandro\\onedrive\\escritorio\\supermarketweb\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|solutionrelative:pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|C:\\Users\\Alejandro\\OneDrive\\Escritorio\\SupermarketWEB\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|C:\\Users\\Alejandro\\OneDrive\\Escritorio\\SupermarketWEB\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|C:\\Users\\Alejandro\\OneDrive\\Escritorio\\SupermarketWEB\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|solutionrelative:pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|C:\\Users\\Alejandro\\OneDrive\\Escritorio\\SupermarketWEB\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|solutionrelative:pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|C:\\Users\\Alejandro\\OneDrive\\Escritorio\\SupermarketWEB\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|solutionrelative:pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|c:\\users\\alejandro\\onedrive\\escritorio\\supermarketweb\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|C:\\Users\\Alejandro\\OneDrive\\Escritorio\\SupermarketWEB\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E7F220-2604-492E-8A38-C513E02C108C}|SupermarketWEB.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 339,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Logout.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Alejandro\\OneDrive\\Escritorio\\SupermarketWEB\\Pages\\Account\\Logout.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Account\\Logout.cshtml.cs",
@@ -62,12 +58,11 @@
               "RelativeToolTip": "Pages\\Account\\Logout.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T18:18:00.366Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T18:18:00.366Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Logout.cshtml",
               "DocumentMoniker": "C:\\Users\\Alejandro\\OneDrive\\Escritorio\\SupermarketWEB\\Pages\\Account\\Logout.cshtml",
               "RelativeDocumentMoniker": "Pages\\Account\\Logout.cshtml",
@@ -75,12 +70,11 @@
               "RelativeToolTip": "Pages\\Account\\Logout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-09T18:17:35.898Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T18:17:35.898Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Alejandro\\OneDrive\\Escritorio\\SupermarketWEB\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
@@ -93,55 +87,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Login.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Alejandro\\OneDrive\\Escritorio\\SupermarketWEB\\Pages\\Account\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Account\\Login.cshtml.cs",
               "ToolTip": "C:\\Users\\Alejandro\\OneDrive\\Escritorio\\SupermarketWEB\\Pages\\Account\\Login.cshtml.cs",
               "RelativeToolTip": "Pages\\Account\\Login.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T17:08:57.366Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\Alejandro\\OneDrive\\Escritorio\\SupermarketWEB\\Pages\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Pages\\Account\\Login.cshtml",
               "ToolTip": "C:\\Users\\Alejandro\\OneDrive\\Escritorio\\SupermarketWEB\\Pages\\Account\\Login.cshtml",
               "RelativeToolTip": "Pages\\Account\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABBAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-09T16:46:11.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T16:46:11.268Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Alejandro\\OneDrive\\Escritorio\\SupermarketWEB\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\Alejandro\\OneDrive\\Escritorio\\SupermarketWEB\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T16:41:38.069Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Alejandro\\OneDrive\\Escritorio\\SupermarketWEB\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Alejandro\\OneDrive\\Escritorio\\SupermarketWEB\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA1AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T21:32:09.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T21:32:09.9Z"
             }
           ]
         },
